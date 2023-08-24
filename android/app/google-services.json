@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465145903260",
+    "project_id": "fir-cloud-message-307bc",
+    "storage_bucket": "fir-cloud-message-307bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465145903260:android:b57b33592edde77e401559",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cloude_messages_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465145903260-ng2i86of5gu1ar2b8g52je6iv1u3ko5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_cloude_messages_push_notification",
+            "certificate_hash": "0c38b3fbd401d170fbf6c22d02d570654ef29000"
+          }
+        },
+        {
+          "client_id": "465145903260-87nt0ec4mi4rh6kj6575hocu0p26fr79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH3GYJ0NLbgHsexhWiR5xeAv3c2V7feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465145903260-87nt0ec4mi4rh6kj6575hocu0p26fr79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
